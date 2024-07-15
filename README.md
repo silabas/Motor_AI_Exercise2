@@ -1,6 +1,6 @@
 # Motor AI Exercise2
 
-This exercise includes writing a Python script that combines 3 vector data (road bounds, road markings, buildings) into a single raster RGB mask with following pixel values:
+This exercise includes a Python script that combines 3 vector data (road bounds, road markings, buildings) into a single raster RGB mask with following pixel values:
 
 - road bound: [0, 0, 200]
 - buildings: [255, 0, 0]
