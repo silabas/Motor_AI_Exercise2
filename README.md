@@ -11,8 +11,12 @@ This exercise includes writing a Python script that combines 3 vector data (road
 - solid line: [0, 45, 0]
 - stop line: [0, 85, 0]
 
- Mask image result:
+Input raster and vector layers:
 
+![image](https://github.com/user-attachments/assets/e78702b9-aaca-40fa-b192-3913fea4865a)
+
+ Mask image result:
+ 
 ![image](https://github.com/user-attachments/assets/a8494e63-c74a-41cb-9d7e-16362e07e712)
 
 
